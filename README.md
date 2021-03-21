@@ -1,5 +1,5 @@
 # PBO-Inheritance
-code in scr
+code in src
 
 # Latihan 1a
 ![Latihan1](https://user-images.githubusercontent.com/76156474/111901636-f1ee6b80-8a6b-11eb-8eda-a3eeaacdf661.png)
